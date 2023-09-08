@@ -1,0 +1,4 @@
+Membuat website galeri produk
+- Menggunakan tailwind css
+- Menerapkan sistem sign in dan register
+- Menerapkan sistem login oauth dari google
